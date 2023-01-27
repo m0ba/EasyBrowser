@@ -23,10 +23,7 @@
 1. [.NET Framework 4.6.2](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net462-offline-installer)
 2. [Visual C++ 运行时 2015](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 
-## 测试环境
 
-+ 可以使用浏览器进入[测试页](https://pinyin.sogou.com/help.php?list=8)测试 Flash 的可用性
-+ 可以使用浏览器进入[测试页](http://cachefly.cachefly.net/10mb.test)测试下载功能
 
 ## 开发环境
 
